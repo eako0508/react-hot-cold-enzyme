@@ -7,4 +7,6 @@ describe('<Header />', () =>{
 	it('Renders without crashing', ()=>{
 		shallow(<Header />);
 	});
+
+	
 });
